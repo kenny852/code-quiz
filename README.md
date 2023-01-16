@@ -11,3 +11,5 @@ code quiz have contains the following requirements:
 
 
 ![screen capture of code quiz.](./assets/demo.jpg)
+![screen capture of code quiz.](./assets/demo1.jpg)
+![screen capture of code quiz.](./assets/demo2.jpg)
